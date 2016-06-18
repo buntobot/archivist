@@ -1,12 +1,11 @@
 # archivist
-
-Update your history file to reflect the merge of pull requests.
+> Update Bunto's history file to reflect the merge of pull requests.
 
 ## Configuration
 
 You must specify two environment variables in order to make the push up to GitHub:
 
-1. `GH_USER` - your username
+1. `GH_USER` - username of the bot
 2. `GH_TOKEN` - the application-specific passcode for this app
 
 You may also optionally set the following:
