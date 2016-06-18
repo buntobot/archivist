@@ -3,7 +3,7 @@ require 'json'
 require File.expand_path("../lib/archivist.rb", __FILE__)
 
 get '/' do
-  "Oh, hai."
+  "Oh, hi."
 end
 
 post '/' do
